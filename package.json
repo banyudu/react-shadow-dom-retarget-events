@@ -1,6 +1,6 @@
 {
   "name": "@banyudu/react-shadow-dom-retarget-events",
-  "version": "1.0.10",
+  "version": "1.0.11",
   "description": "Retargets event in a shadow root to react",
   "main": "index.js",
   "repository": "banyudu/react-shadow-dom-retarget-events",
